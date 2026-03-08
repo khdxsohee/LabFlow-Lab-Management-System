@@ -1,0 +1,5 @@
+{
+  "name": "LabFlow - Laboratory Management System",
+  "description": "A comprehensive laboratory management system for tracking patients, tests, payments, and reports with WhatsApp integration.",
+  "requestFramePermissions": []
+}
